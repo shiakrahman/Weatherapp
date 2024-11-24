@@ -47,3 +47,4 @@ group :development, :test do
 end
 
 
+gem 'pg', '~> 1.5', '>= 1.5.9'
